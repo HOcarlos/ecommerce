@@ -2,7 +2,7 @@
     "name": "HOcarlos/ecommerce",
     "authors": [
         {
-            "name": "Carlos Henrique de Oliveira	",
+            "name": "Carlos Henrique",
             "email": "carlos.ho96@outlook.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
